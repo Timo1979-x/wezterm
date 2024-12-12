@@ -11,7 +11,7 @@ Config.anti_alias_custom_block_glyphs = true
 
 Config.font = wt.font_with_fallback {
   {
-    family = "FiraCode Nerd Font",
+    family = "IosevkaTerm Nerd Font Mono",
     weight = "Regular",
     harfbuzz_features = {
       -- "cv01", ---styles: a

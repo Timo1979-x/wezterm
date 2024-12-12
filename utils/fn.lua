@@ -1078,7 +1078,7 @@ M.color.get_scheme = function()
   if sfind((wt_gui and wt_gui.get_appearance() or ""), "Dark") then
     return "kanagawa-wave"
   end
-  return "kanagawa-lotus"
+  return "kanagawa-wave"
 end --~~}}}
 
 --~~ {{{2 M.color.set_tab_button(Config: table, theme: table)
